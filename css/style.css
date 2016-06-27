@@ -17,6 +17,7 @@ div{
     padding: 10px; /* Поля вокруг текста */
     margin: auto; /* Выравниваем по центру */
     background: #ffffff; /* Цвет фона */
+    box-shadow: 0 0 5px 2px gray;  /* тень вокруг объекта */
    }
 .center_inner {
     width: 700px; /* Ширина элемента в пикселах */
@@ -24,3 +25,7 @@ div{
     margin: auto; /* Выравниваем по центру */
     background: #ffffff; /* Цвет фона */
    }
+.bottom{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}   
