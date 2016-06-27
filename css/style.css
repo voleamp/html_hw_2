@@ -1,0 +1,26 @@
+body {
+    background: #e8e8e8;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    font-size: 20px;
+   }
+div{
+    color: black;
+    background: white;
+    padding-left: 2%;
+   }
+
+.center {
+    width: 800px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    background: #ffffff; /* Цвет фона */
+   }
+.center_inner {
+    width: 700px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    background: #ffffff; /* Цвет фона */
+   }
